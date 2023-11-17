@@ -7,5 +7,6 @@ description = "Fixed-point numbers in Rust using const generics"
 readme = "README.md"
 repository = "https://github.com/MithicSpirit/fxp"
 license = "AGPL-3.0"
+license-file = "LICENSE"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
