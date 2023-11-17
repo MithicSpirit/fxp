@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["MithicSpirit <rpc01234@gmail.com>"]
 edition = "2021"
 description = "Fixed-point numbers in Rust using const generics"
+readme = "README.md"
 license = "AGPL-3.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
